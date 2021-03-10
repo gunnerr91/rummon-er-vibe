@@ -8,13 +8,13 @@ Amplitude.init({
     {
       name: "bibia shunno cover",
       artist: "Rummon vibes",
-      url: "/bibia-shunno-cover.mp3",
+      url: "https://mp3.fastupload.co/data/1615362028/bibia-shunno-cover.mp3",
       cover_art_url: "/cover_for_rummon.jpg"
     },
     {
       name: "dreams cover",
       artist: "Rummon vibes",
-      url: "/dreams-cover.m4a",
+      url: "https://mp3.fastupload.co/data/1615362163/dreams-cover.m4a",
       cover_art_url: "/cover_for_rummon.jpg"
     }
   ]
